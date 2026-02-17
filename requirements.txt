@@ -1,6 +1,7 @@
 streamlit
 langgraph
-langchain-google-genai
+langchain-google-genai>=2.0.0
 langchain-community
 tavily-python
 langchain-core
+google-genai>=1.0.0
